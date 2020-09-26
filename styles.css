@@ -6,7 +6,7 @@ body {
 	background-image:url("images/eagle45.png");
 	background-repeat:no-repeat;
 	background-position:top;
-	
+	border: 10px groove darkkhaki;
 		
 }
 h1 {
